@@ -37,12 +37,9 @@ $ pip install -r requirements.txt
  $ python -m pytest <marker1> ... <markerN>
 ```
 - Для просмотра всех маркеров: ```$ pytest --markers```
-
 - Для просмотра всех доступных fixtures: ```$ pytest --fixtures```
-
-(shown according to specified file_or_dir or current dir if not specified;
-
-fixtures with leading '_' are only shown with the '-v' option)
+> shown according to specified file_or_dir or current dir if not specified;
+> fixtures with leading '_' are only shown with the '-v' option)
 
 #### 4. Отчеты
 - на данном этапе реализации предусмотрен отчет в stdout
@@ -52,9 +49,9 @@ fixtures with leading '_' are only shown with the '-v' option)
 #### Описание тестового покрытия
 - Ссылка на требования: http://rest.test.ivi.ru/v2
 - Тестовые сценарии находятся в папке проэкта  ```\DOC``` в виде ```html``` документов:
- * * test_1_check_characters_reset.html https://github.com/sarzamas/pytest_rest_example/blob/master/DOC/test_1_check_characters_reset.html
- * * test_2_check_character_post.html https://github.com/sarzamas/pytest_rest_example/blob/master/DOC/test_2_check_character_post.html
- * * test_3_check_character_get.html https://github.com/sarzamas/pytest_rest_example/blob/master/DOC/test_3_check_character_get.html
- * * test_4_check_character_put.html https://github.com/sarzamas/pytest_rest_example/blob/master/DOC/test_4_check_character_put.html
- * * test_5_check_character_patch.html https://github.com/sarzamas/pytest_rest_example/blob/master/DOC/test_5_check_character_patch.html
- * * test_6_check_character_delete.html https://github.com/sarzamas/pytest_rest_example/blob/master/DOC/test_6_check_character_delete.html
+ * * [test_1_check_characters_reset](https://github.com/sarzamas/pytest_rest_example/blob/master/DOC/test_1_check_characters_reset.html)
+ * * [test_2_check_character_post](https://github.com/sarzamas/pytest_rest_example/blob/master/DOC/test_2_check_character_post.html)
+ * * [test_3_check_character_get](https://github.com/sarzamas/pytest_rest_example/blob/master/DOC/test_3_check_character_get.html)
+ * * [test_4_check_character_put](https://github.com/sarzamas/pytest_rest_example/blob/master/DOC/test_4_check_character_put.html)
+ * * [test_5_check_character_patch](https://github.com/sarzamas/pytest_rest_example/blob/master/DOC/test_5_check_character_patch.html)
+ * * [test_6_check_character_delete](https://github.com/sarzamas/pytest_rest_example/blob/master/DOC/test_6_check_character_delete.html)
