@@ -2,7 +2,7 @@ import pytest
 import requests as r
 
 
-@pytest.mark.put
+@pytest.mark.patch
 class TestCheckCharacterPatch:
     TEARDOWN_NAMES_POOl = 0
 

@@ -37,5 +37,10 @@ $ pip install -r requirements.txt
 ```
  $ python -m pytest <marker1> ... <markerN>
 ```
+Для просмотра всех маркеров: ```$ pytest --markers```
+Для просмотра всех доступных fixtures: ```$ pytest --fixtures```
+(shown according to specified file_or_dir or current dir if not specified;
+fixtures with leading '_' are only shown with the '-v' option)
+
 #### 4. Отчеты
 - на данном этапе реализации предусмотрен отчет в stdout
