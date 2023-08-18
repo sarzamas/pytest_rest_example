@@ -51,7 +51,7 @@ fixtures with leading '_' are only shown with the '-v' option)
 ============================
 #### Описание тестового покрытия
 - Ссылка на требования: http://rest.test.ivi.ru/v2
-- Тестовые сценарии находятся в папке проэкта  ```\DOC``` в виде ```html``` документов
+- Тестовые сценарии находятся в папке проэкта  ```\DOC``` в виде ```html``` документов:
  * * test_1_check_characters_reset.html
  * * test_2_check_character_post.html
  * * test_3_check_character_get.html

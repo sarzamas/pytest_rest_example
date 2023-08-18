@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: module test_2_check_character_post</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head><body bgcolor="#f0f0f8">
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#7799ee">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>test_2_check_character_post</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:d%3A%5Csony_backup%5C%21sarz%5C%21resume%5Cphyton%5Cprojects%5Cpytest_rest_example%5Ctests%5Ctest_2_check_character_post.py">d:\sony_backup\!sarz\!resume\phyton\projects\pytest_rest_example\tests\test_2_check_character_post.py</a></font></td></tr></table>
+    <p></p>
+<p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#aa55cc">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Modules</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#aa55cc"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><table width="100%" summary="list"><tr><td width="25%" valign=top><a href="pytest.html">pytest</a><br>
+</td><td width="25%" valign=top><a href="requests.html">requests</a><br>
+</td><td width="25%" valign=top></td><td width="25%" valign=top></td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ee77aa">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Classes</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#ee77aa"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl>
+<dt><font face="helvetica, arial"><a href="builtins.html#object">builtins.object</a>
+</font></dt><dd>
+<dl>
+<dt><font face="helvetica, arial"><a href="test_2_check_character_post.html#TestCheckCharacterPost">TestCheckCharacterPost</a>
+</font></dt></dl>
+</dd>
+</dl>
+ <p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ffc8d8">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#000000" face="helvetica, arial"><a name="TestCheckCharacterPost">class <strong>TestCheckCharacterPost</strong></a>(<a href="builtins.html#object">builtins.object</a>)</font></td></tr>
+    
+<tr><td bgcolor="#ffc8d8"><tt>&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%">Methods defined here:<br>
+<dl><dt><a name="TestCheckCharacterPost-current_test_data"><strong>current_test_data</strong></a>(self, test_data, faker)</dt><dd><tt>Фикстура&nbsp;подготовки&nbsp;общих&nbsp;данных&nbsp;для&nbsp;выполнения&nbsp;этого&nbsp;класса&nbsp;тестов<br>
+TEARDOWN_NAMES_POOl:&nbsp;количество&nbsp;используемых&nbsp;этим&nbsp;классом&nbsp;тестов&nbsp;слотов&nbsp;для&nbsp;параметра&nbsp;'test_names'<br>
+Все&nbsp;тестовые&nbsp;сущности&nbsp;созданные&nbsp;в&nbsp;тестах&nbsp;как&nbsp;POST&nbsp;с&nbsp;именами&nbsp;{'name':&nbsp;...}&nbsp;взятыми&nbsp;из&nbsp;слотов&nbsp;'test_names'<br>
+будут&nbsp;автоматически&nbsp;очищены&nbsp;из&nbsp;базы&nbsp;при&nbsp;teardown<br>
+&nbsp;<br>
+:param&nbsp;test_data:&nbsp;базовая&nbsp;фикстура&nbsp;подготовки&nbsp;данных&nbsp;для&nbsp;выполнения&nbsp;всех&nbsp;тестов&nbsp;класса<br>
+:param&nbsp;faker:&nbsp;фикстура&nbsp;подготовки&nbsp;случайных&nbsp;данных</tt></dd></dl>
+
+<dl><dt><a name="TestCheckCharacterPost-test_post_character_negative"><strong>test_post_character_negative</strong></a>(self, data)</dt><dd><tt>Тест&nbsp;проверки&nbsp;метода:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;POST&nbsp;/character<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;HTTP&nbsp;400&nbsp;-&nbsp;проверка&nbsp;идемпотентности&nbsp;(запрет&nbsp;дублирования&nbsp;записи&nbsp;с&nbsp;пересечением&nbsp;по&nbsp;'name')<br>
+&nbsp;<br>
+:param&nbsp;data:&nbsp;фикстура&nbsp;подготовки&nbsp;тестовых&nbsp;данных&nbsp;для&nbsp;этого&nbsp;класса&nbsp;тестов</tt></dd></dl>
+
+<dl><dt><a name="TestCheckCharacterPost-test_post_character_negative2"><strong>test_post_character_negative2</strong></a>(self, data, faker)</dt><dd><tt>Тест&nbsp;проверки&nbsp;метода:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;POST&nbsp;/character<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;HTTP&nbsp;400&nbsp;-&nbsp;запрос&nbsp;с&nbsp;валидными&nbsp;JSON&nbsp;но&nbsp;с&nbsp;отсутствием&nbsp;-H&nbsp;'Content-type:&nbsp;application/json'<br>
+&nbsp;<br>
+:param&nbsp;data:&nbsp;фикстура&nbsp;подготовки&nbsp;тестовых&nbsp;данных&nbsp;для&nbsp;этого&nbsp;класса&nbsp;тестов<br>
+:param&nbsp;faker:&nbsp;фикстура&nbsp;подготовки&nbsp;случайных&nbsp;данных</tt></dd></dl>
+
+<dl><dt><a name="TestCheckCharacterPost-test_post_character_negative3"><strong>test_post_character_negative3</strong></a>(self, data, faker)</dt><dd><tt>Тест&nbsp;проверки&nbsp;метода:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;POST&nbsp;/character<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;HTTP&nbsp;400&nbsp;-&nbsp;запрос&nbsp;с&nbsp;невалидными&nbsp;JSON&nbsp;в&nbsp;блоке&nbsp;данных<br>
+&nbsp;<br>
+:param&nbsp;data:&nbsp;фикстура&nbsp;подготовки&nbsp;тестовых&nbsp;данных&nbsp;для&nbsp;этого&nbsp;класса&nbsp;тестов<br>
+:param&nbsp;faker:&nbsp;фикстура&nbsp;подготовки&nbsp;случайных&nbsp;данных</tt></dd></dl>
+
+<dl><dt><a name="TestCheckCharacterPost-test_post_character_negative4"><strong>test_post_character_negative4</strong></a>(self, data)</dt><dd><tt>Тест&nbsp;проверки&nbsp;метода:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;POST&nbsp;/character<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;HTTP&nbsp;400&nbsp;-&nbsp;отсутствие&nbsp;в&nbsp;запросе&nbsp;обязательного&nbsp;поля&nbsp;-&nbsp;'name'<br>
+&nbsp;<br>
+:param&nbsp;data:&nbsp;фикстура&nbsp;подготовки&nbsp;тестовых&nbsp;данных&nbsp;для&nbsp;этого&nbsp;класса&nbsp;тестов</tt></dd></dl>
+
+<dl><dt><a name="TestCheckCharacterPost-test_post_character_negative5"><strong>test_post_character_negative5</strong></a>(self, data)</dt><dd><tt>Тест&nbsp;проверки&nbsp;метода:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;POST&nbsp;/character<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;HTTP&nbsp;400&nbsp;-&nbsp;пустой&nbsp;JSON&nbsp;{}<br>
+&nbsp;<br>
+:param&nbsp;data:&nbsp;фикстура&nbsp;подготовки&nbsp;тестовых&nbsp;данных&nbsp;для&nbsp;этого&nbsp;класса&nbsp;тестов</tt></dd></dl>
+
+<dl><dt><a name="TestCheckCharacterPost-test_post_character_negative6"><strong>test_post_character_negative6</strong></a>(self, data, faker)</dt><dd><tt>Тест&nbsp;проверки&nbsp;метода:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;POST&nbsp;/character<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;HTTP&nbsp;400&nbsp;-&nbsp;неверный&nbsp;тип&nbsp;данных&nbsp;-&nbsp;int&nbsp;&lt;-&gt;&nbsp;str<br>
+&nbsp;<br>
+:param&nbsp;data:&nbsp;фикстура&nbsp;подготовки&nbsp;тестовых&nbsp;данных&nbsp;для&nbsp;этого&nbsp;класса&nbsp;тестов<br>
+:param&nbsp;faker:&nbsp;фикстура&nbsp;подготовки&nbsp;случайных&nbsp;данных</tt></dd></dl>
+
+<dl><dt><a name="TestCheckCharacterPost-test_post_character_negative7"><strong>test_post_character_negative7</strong></a>(self, data, faker, overflow_db, reset_db)</dt><dd><tt>Тест&nbsp;проверки&nbsp;метода:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;POST&nbsp;/character<br>
+Проверка&nbsp;переполнения&nbsp;БД:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;количество&nbsp;записей&nbsp;в&nbsp;БД&nbsp;=&nbsp;500<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;HTTP&nbsp;400&nbsp;-&nbsp;при&nbsp;следующем&nbsp;запросе&nbsp;POST&nbsp;/character<br>
+&nbsp;<br>
+:param&nbsp;data:&nbsp;фикстура&nbsp;подготовки&nbsp;тестовых&nbsp;данных&nbsp;для&nbsp;этого&nbsp;класса&nbsp;тестов<br>
+:param&nbsp;overflow_db:&nbsp;фикстура&nbsp;создания&nbsp;количества&nbsp;записей&nbsp;в&nbsp;БД&nbsp;=&nbsp;500<br>
+:param&nbsp;reset_db:&nbsp;фикстура&nbsp;сброса&nbsp;базы&nbsp;в&nbsp;исходное&nbsp;состояние<br>
+:param&nbsp;faker:&nbsp;фикстура&nbsp;подготовки&nbsp;случайных&nbsp;данных</tt></dd></dl>
+
+<dl><dt><a name="TestCheckCharacterPost-test_post_character_positive"><strong>test_post_character_positive</strong></a>(self, data)</dt><dd><tt>Тест&nbsp;проверки&nbsp;метода:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;POST&nbsp;/character<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;HTTP&nbsp;200&nbsp;-&nbsp;запрос&nbsp;с&nbsp;валидными&nbsp;данными&nbsp;в&nbsp;JSON&nbsp;(все&nbsp;параметры)<br>
+&nbsp;<br>
+:param&nbsp;data:&nbsp;фикстура&nbsp;подготовки&nbsp;тестовых&nbsp;данных&nbsp;для&nbsp;этого&nbsp;класса&nbsp;тестов</tt></dd></dl>
+
+<dl><dt><a name="TestCheckCharacterPost-test_post_character_positive2"><strong>test_post_character_positive2</strong></a>(self, data)</dt><dd><tt>Тест&nbsp;проверки&nbsp;метода:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;POST&nbsp;/character<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;HTTP&nbsp;200&nbsp;-&nbsp;запрос&nbsp;с&nbsp;валидными&nbsp;данными&nbsp;в&nbsp;JSON&nbsp;(min&nbsp;число&nbsp;параметров&nbsp;-&nbsp;'name')<br>
+&nbsp;<br>
+:param&nbsp;data:&nbsp;фикстура&nbsp;подготовки&nbsp;тестовых&nbsp;данных&nbsp;для&nbsp;этого&nbsp;класса&nbsp;тестов</tt></dd></dl>
+
+<hr>
+Data descriptors defined here:<br>
+<dl><dt><strong>__dict__</strong></dt>
+<dd><tt>dictionary&nbsp;for&nbsp;instance&nbsp;variables&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<dl><dt><strong>__weakref__</strong></dt>
+<dd><tt>list&nbsp;of&nbsp;weak&nbsp;references&nbsp;to&nbsp;the&nbsp;object&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<hr>
+Data and other attributes defined here:<br>
+<dl><dt><strong>TEARDOWN_NAMES_POOl</strong> = 3</dl>
+
+<dl><dt><strong>pytestmark</strong> = [Mark(name='post', args=(), kwargs={})]</dl>
+
+</td></tr></table></td></tr></table>
+</body></html>

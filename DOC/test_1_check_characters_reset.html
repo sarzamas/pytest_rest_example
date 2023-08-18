@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: module test_1_check_characters_reset</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head><body bgcolor="#f0f0f8">
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#7799ee">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>test_1_check_characters_reset</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:d%3A%5Csony_backup%5C%21sarz%5C%21resume%5Cphyton%5Cprojects%5Cpytest_rest_example%5Ctests%5Ctest_1_check_characters_reset.py">d:\sony_backup\!sarz\!resume\phyton\projects\pytest_rest_example\tests\test_1_check_characters_reset.py</a></font></td></tr></table>
+    <p></p>
+<p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#aa55cc">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Modules</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#aa55cc"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><table width="100%" summary="list"><tr><td width="25%" valign=top><a href="pytest.html">pytest</a><br>
+</td><td width="25%" valign=top><a href="requests.html">requests</a><br>
+</td><td width="25%" valign=top></td><td width="25%" valign=top></td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ee77aa">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Classes</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#ee77aa"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl>
+<dt><font face="helvetica, arial"><a href="builtins.html#object">builtins.object</a>
+</font></dt><dd>
+<dl>
+<dt><font face="helvetica, arial"><a href="test_1_check_characters_reset.html#TestCheckCharactersReset">TestCheckCharactersReset</a>
+</font></dt></dl>
+</dd>
+</dl>
+ <p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ffc8d8">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#000000" face="helvetica, arial"><a name="TestCheckCharactersReset">class <strong>TestCheckCharactersReset</strong></a>(<a href="builtins.html#object">builtins.object</a>)</font></td></tr>
+    
+<tr><td bgcolor="#ffc8d8"><tt>&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%">Methods defined here:<br>
+<dl><dt><a name="TestCheckCharactersReset-current_test_data"><strong>current_test_data</strong></a>(self, test_data)</dt><dd><tt>Фикстура&nbsp;подготовки&nbsp;общих&nbsp;данных&nbsp;для&nbsp;выполнения&nbsp;этого&nbsp;класса&nbsp;тестов<br>
+TEARDOWN_NAMES_POOl:&nbsp;количество&nbsp;используемых&nbsp;этим&nbsp;классом&nbsp;тестов&nbsp;слотов&nbsp;для&nbsp;параметра&nbsp;'test_names'<br>
+Все&nbsp;тестовые&nbsp;сущности&nbsp;созданные&nbsp;в&nbsp;тестах&nbsp;как&nbsp;POST&nbsp;с&nbsp;именами&nbsp;{'name':&nbsp;...}&nbsp;взятыми&nbsp;из&nbsp;слотов&nbsp;'test_names'<br>
+будут&nbsp;автоматически&nbsp;очищены&nbsp;из&nbsp;базы&nbsp;при&nbsp;teardown<br>
+&nbsp;<br>
+:param&nbsp;test_data:&nbsp;базовая&nbsp;фикстура&nbsp;подготовки&nbsp;данных&nbsp;для&nbsp;выполнения&nbsp;всех&nbsp;тестов&nbsp;класса</tt></dd></dl>
+
+<dl><dt><a name="TestCheckCharactersReset-test_characters_positive"><strong>test_characters_positive</strong></a>(self, data)</dt><dd><tt>Тест&nbsp;проверки&nbsp;выдачи&nbsp;списка&nbsp;всех&nbsp;записей&nbsp;из&nbsp;БД:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;GET&nbsp;/characters<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;количество&nbsp;записей&nbsp;в&nbsp;БД&nbsp;&lt;=&nbsp;500<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;параметры&nbsp;ответа&nbsp;(HTTP&nbsp;200,&nbsp;JSON)<br>
+&nbsp;<br>
+:param&nbsp;data:&nbsp;фикстура&nbsp;подготовки&nbsp;тестовых&nbsp;данных&nbsp;для&nbsp;этого&nbsp;класса&nbsp;тестов</tt></dd></dl>
+
+<dl><dt><a name="TestCheckCharactersReset-test_reset_positive"><strong>test_reset_positive</strong></a>(self, data, faker)</dt><dd><tt>Тест&nbsp;проверки&nbsp;reset&nbsp;БД:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;POST&nbsp;/reset<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;HTTP&nbsp;200<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;количество&nbsp;записей&nbsp;в&nbsp;БД&nbsp;=&nbsp;302&nbsp;(reset&nbsp;default)<br>
+&nbsp;<br>
+:param&nbsp;data:&nbsp;фикстура&nbsp;подготовки&nbsp;тестовых&nbsp;данных&nbsp;для&nbsp;этого&nbsp;класса&nbsp;тестов<br>
+:param&nbsp;faker:&nbsp;фикстура&nbsp;подготовки&nbsp;случайных&nbsp;данных</tt></dd></dl>
+
+<hr>
+Data descriptors defined here:<br>
+<dl><dt><strong>__dict__</strong></dt>
+<dd><tt>dictionary&nbsp;for&nbsp;instance&nbsp;variables&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<dl><dt><strong>__weakref__</strong></dt>
+<dd><tt>list&nbsp;of&nbsp;weak&nbsp;references&nbsp;to&nbsp;the&nbsp;object&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<hr>
+Data and other attributes defined here:<br>
+<dl><dt><strong>TEARDOWN_NAMES_POOl</strong> = 0</dl>
+
+<dl><dt><strong>pytestmark</strong> = [Mark(name='reset', args=(), kwargs={}), Mark(name='characters', args=(), kwargs={})]</dl>
+
+</td></tr></table></td></tr></table>
+</body></html>

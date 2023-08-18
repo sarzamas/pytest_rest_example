@@ -26,6 +26,5 @@ screenshots
 report
 logs
 *.log
-*.html
 *.http
 github.txt
