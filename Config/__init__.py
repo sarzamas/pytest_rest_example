@@ -57,8 +57,8 @@ class Config(DotDict, metaclass=Singleton):
         return self._username
 
     @username.setter
-    def username(self, username):
-        self._username = username
+    def username(self, value: str):
+        self._username = value
 
     @property
     def password(self) -> DotDict:
@@ -69,5 +69,5 @@ class Config(DotDict, metaclass=Singleton):
         return self._password
 
     @password.setter
-    def password(self, password):
-        self._password = password
+    def password(self, value: str):
+        self._password = value
