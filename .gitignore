@@ -1,0 +1,30 @@
+# Temporary files
+__pycache__
+.pytest_cache
+__MACOSX
+.DS_Store
+
+# Environment
+.venv
+.devenv
+geckodriver
+
+# Config
+config.local.json
+selenoid
+
+# IDE files
+.idea
+.vscode
+
+# Other files
+TEMP
+temp
+samples
+video
+screenshots
+report
+logs
+*.log
+*.html
+*.http
