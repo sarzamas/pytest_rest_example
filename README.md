@@ -48,7 +48,7 @@ $ pip install -r requirements.txt
 ============================
 #### Описание тестового покрытия
 - Ссылка на требования: http://rest.test.ivi.ru/v2
-- Тестовые сценарии находятся в папке проэкта  ```\DOC``` в виде ```html``` документов:
+- Тестовые сценарии находятся в папке проекта  ```\DOC``` в виде ```html``` документов:
  * * [test_1_check_characters_reset](https://github.com/sarzamas/pytest_rest_example/blob/master/DOC/test_1_check_characters_reset.html)
  * * [test_2_check_character_post](https://github.com/sarzamas/pytest_rest_example/blob/master/DOC/test_2_check_character_post.html)
  * * [test_3_check_character_get](https://github.com/sarzamas/pytest_rest_example/blob/master/DOC/test_3_check_character_get.html)
