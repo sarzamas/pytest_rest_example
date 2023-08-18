@@ -1,0 +1,2400 @@
+result	
+0	
+education	"High school graduate; military training (Chuck Chandler only)"
+height	187
+identity	"Secret"
+name	"3-D Man"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	90
+1	
+education	"High school graduate; military training (Chuck Chandler only)"
+height	187
+identity	"Secret"
+name	"3-D Man"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	90
+2	
+education	"High school graduate; military training (Chuck Chandler only)"
+height	187
+identity	"Secret"
+name	"3-D Man"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	90
+3	
+education	"High school dropout"
+height	193
+identity	"Publicly known"
+name	"Absorbing Man"
+other_aliases	"Rocky Davis, Lightningbolt"
+universe	"Marvel Universe"
+weight	164.25
+4	
+education	"Unrevealed"
+height	193
+identity	"Secret"
+name	"Abyss"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	72.9
+5	
+education	"Unrevealed"
+height	193
+identity	"Secret"
+name	"Abyss (Age of Apocalypse)"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	72.9
+6	
+education	"Unrevealed"
+height	172
+identity	"Last name known to authorities"
+name	"Agent Brand"
+other_aliases	"Agent Brand, Commander, “Abby”"
+universe	"Marvel Universe"
+weight	63
+7	
+education	"Unrevealed"
+height	190
+identity	"Secret, known to certain government officials"
+name	"Agent Zero"
+other_aliases	"Formerly Maverick, David North, Agent Zero"
+universe	"Marvel Universe"
+weight	103.5
+8	
+education	"Unrevealed"
+height	187
+identity	"Secret"
+name	"Air-Walker (Gabriel Lan)"
+other_aliases	"Nova Centurion, the Archangel Gabriel"
+universe	"Marvel Universe"
+weight	108
+9	
+education	"Unrevealed"
+height	185
+identity	"Secret"
+name	"Ajak"
+other_aliases	"Tecumotzin, Lord of Flight"
+universe	"Marvel Universe"
+weight	99
+10	
+education	"B.A. in Fine Arts"
+height	162
+identity	"Publicly known"
+name	"Alicia Masters"
+other_aliases	"Alicia Reiss (birth name); the name Alicia Masters-Storm was used by Skrull impostor Lyja, but was popularly believed to have been used by Alicia"
+universe	"Marvel Universe"
+weight	49.5
+11	
+education	"Unrevealed"
+height	167
+identity	"Secret"
+name	"Amanda Sefton"
+other_aliases	"Amanda Sefton, Magicienne, Daytripper"
+universe	"Marvel Universe"
+weight	49.5
+12	
+height	147
+name	"Amiko"
+universe	"Marvel Universe"
+weight	45
+13	
+education	"Extensive studies of arcane arts"
+height	190
+identity	"Secret on Earth, public in Asgard"
+name	"Amora"
+other_aliases	"Christine Collins, Helen Eve, Amora Incantare, Amora Lorelei, Leena Moran, Valkyrie"
+universe	"Marvel Universe"
+weight	202.5
+14	
+education	"High school student"
+height	167
+identity	"Secret"
+name	"Amun"
+other_aliases	"unrevealed"
+universe	"Marvel Universe"
+weight	65.25
+15	
+education	"Prolonged study of sorcery, 15th-century medical training"
+height	180
+identity	"Existence unknown to the present-day Earth"
+name	"Ancient One"
+other_aliases	"bTsan Saa, the High Lama, the Master, the Mystic, the Spirit Leopard"
+universe	"Marvel Universe"
+weight	72
+16	
+education	"Prolonged study of sorcery, 15th-century medical training"
+height	180
+identity	"Existence unknown to the present-day Earth"
+name	"Ancient One (Ultimate)"
+other_aliases	"bTsan Saa, the High Lama, the Master, the Mystic, the Spirit Leopard"
+universe	"Marvel Universe"
+weight	72
+17	
+education	"Unrevealed"
+height	180
+identity	"No dual identity"
+name	"Annihilus"
+other_aliases	"The Living Death That Walks, Lord of the Negative Zone"
+universe	"Marvel Universe"
+weight	90
+18	
+education	"Currently in high school level classes"
+height	175
+identity	"Known to certain government officials"
+name	"Anole"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	54.45
+19	
+education	"Unrevealed"
+height	180
+identity	"Known to certain officials"
+name	"Ant-Man (Eric O'Grady)"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	83.25
+20	
+education	"Unrevealed; some military training"
+height	177
+identity	"Known to the authorities"
+name	"Aqueduct"
+other_aliases	"Water Wizard"
+universe	"Marvel Universe"
+weight	94.5
+21	
+education	"Unrevealed"
+height	167
+identity	"Secret"
+name	"Arcade"
+other_aliases	'Mister A, "Mad Monk", Pinball Wizard, A.R. Cadenski'
+universe	"Marvel Universe"
+weight	63
+22	
+education	"Unrevealed; some military training"
+height	172
+identity	"Secret"
+name	"Arclight"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	56.7
+23	
+education	"Tutored by Olympian scholars"
+height	185
+identity	"Known to <a href='/teams-and-groups/s-h-i-e-l-d'>S.H.I.E.L.D.</a> authorities"
+name	"Ares"
+other_aliases	"Mars (Roman name), John Aaron, Mr. Talon, Warhawk"
+universe	"Marvel Universe"
+weight	225
+24	
+education	"Unrevealed"
+height	228
+identity	"Secret"
+name	"Armadillo"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	495
+25	
+education	"Unrevealed"
+height	195
+identity	"Secret"
+name	"Armor (Hisako Ichiki)"
+other_aliases	"<a href='/characters/zahgurim'>Zahgurim</a>'s servant"
+universe	"Marvel Universe"
+weight	128.25
+26	
+education	"Advanced degree in 1930’s sciences"
+height	177
+identity	"No dual identity"
+name	"Arnim Zola"
+other_aliases	"Bio-Fanatic"
+universe	"Marvel Universe"
+weight	90
+27	
+education	"Madame DuPont's School for Girls"
+height	180
+identity	"Secret"
+name	"Aurora"
+other_aliases	"Once mistaken for Danielle Belmonde"
+universe	"Marvel Universe"
+weight	63
+28	
+education	"Unrevealed"
+height	170
+identity	"Secret (known to the U.S. government)"
+name	"Avalanche"
+other_aliases	"Jon Bloom"
+universe	"Marvel Universe"
+weight	87.75
+29	
+education	"University graduate"
+height	187
+identity	"No dual identity"
+name	"Baron Strucker"
+other_aliases	"unrevealed"
+universe	"Marvel Universe"
+weight	101.25
+30	
+education	"College graduate"
+height	177
+identity	"Publicly known"
+name	"Baron Zemo (Heinrich Zemo)"
+other_aliases	"Iron Cross, Citizen V, Mark Evanier, Phoenix"
+universe	"Marvel Universe"
+weight	82.35000000000001
+31	
+education	"College graduate"
+height	177
+identity	"Publicly known"
+name	"Baron Zemo (Helmut Zemo)"
+other_aliases	"Iron Cross, Citizen V, Mark Evanier, Phoenix"
+universe	"Marvel Universe"
+weight	82.35000000000001
+32	
+education	"Inapplicable"
+height	190
+identity	"Secret"
+name	"Bastion"
+other_aliases	"Template, Sebastion Gilberti, Nimrod, Master Mold"
+universe	"Marvel Universe"
+weight	168.75
+33	
+education	"Unrevealed"
+height	223
+identity	"Secret"
+name	"Battering Ram"
+other_aliases	"None"
+universe	"Marvel UniverseEarth-616"
+weight	171
+34	
+education	"Some college-level courses"
+height	175
+identity	"Secret"
+name	"Beak"
+other_aliases	"Blackwing"
+universe	"Marvel Universe"
+weight	63
+35	
+education	"Ph.D. Biophysics"
+height	180
+identity	"Publicly known"
+name	"Beast"
+other_aliases	"Formerly Kreature, Mutate #666"
+universe	"Marvel Universe"
+weight	180.9
+36	
+education	"Ph.D. Biophysics"
+height	180
+identity	"Publicly known"
+name	"Beast (Earth-311)"
+other_aliases	"Formerly Kreature, Mutate #666"
+universe	"Marvel Universe"
+weight	180.9
+37	
+education	"Ph.D. Biophysics"
+height	180
+identity	"Publicly known"
+name	"Beast (Ultimate)"
+other_aliases	"Formerly Kreature, Mutate #666"
+universe	"Marvel Universe"
+weight	180.9
+38	
+height	198
+identity	"Secret"
+name	"Beef"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	112.5
+39	
+education	"Unrevealed"
+height	167
+identity	"Known to government"
+name	"Beetle (Abner Jenkins)"
+other_aliases	"Hardshell"
+universe	"Marvel Universe"
+weight	51.75
+40	
+education	"High school graduate"
+height	175
+identity	"No dual identity"
+name	"Ben Parker"
+other_aliases	"Ben, Uncle Ben, Unca' Ben"
+universe	"Marvel Universe"
+weight	78.75
+41	
+education	"NYU degree in journalism"
+height	175
+identity	"Publicly Known"
+name	"Ben Urich"
+other_aliases	"none"
+universe	"Marvel Universe"
+weight	63
+42	
+education	"High school dropout"
+height	170
+identity	"No dual identity"
+name	"Betty Brant"
+other_aliases	"Betty Brant-Leeds"
+universe	"Marvel Universe"
+weight	56.25
+43	
+education	"College educated"
+height	165
+identity	"Publicly known"
+name	"Big Wheel"
+other_aliases	'"Round Ravager of the Ring," "Circular Crushing King," "Dynamic Donut of Destruction"'
+universe	"Marvel Universe"
+weight	63
+44	
+education	"Self-taught and tutored by <a href='/characters/mephisto'>Mephisto</a>"
+height	208
+identity	"Existence unknown to general public"
+name	"Blackheart"
+other_aliases	"Lord Blackheart, Black King, Voice"
+universe	"Marvel Universe"
+weight	305.55
+45	
+education	"Unrevealed"
+height	177
+identity	"Publicly known"
+name	"Blackout"
+other_aliases	"Mark Daniels"
+universe	"Marvel Universe"
+weight	81
+46	
+education	"Unknown"
+height	198
+identity	"Known in the Negative Zone, not known on Earth"
+name	"Blastaar"
+other_aliases	"The Living Bomb Burst"
+universe	"Marvel Universe"
+weight	234
+47	
+education	"Unrevealed"
+height	208
+identity	"Secret"
+name	"Blockbuster"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	173.70000000000002
+48	
+education	"Unrevealed"
+height	205
+identity	"Secret"
+name	"Blok"
+other_aliases	"Rainbow"
+universe	"Marvel Universe"
+weight	126
+49	
+education	"Unrevealed"
+height	205
+identity	"Secret"
+name	"Bloke"
+other_aliases	"Rainbow"
+universe	"Marvel Universe"
+weight	126
+50	
+education	"Unrevealed, presumably some medical training."
+height	195
+identity	"Secret"
+name	"Bloodscream"
+other_aliases	"Bloodsport"
+universe	"Marvel Universe"
+weight	78.75
+51	
+education	"Adam holds a PhD in Electrical Engineering and Theoretical Physics from Cornell"
+height	190
+name	"Blue Marvel"
+other_aliases	"Blue Bomber of Battle, Magnificent Master of Might, Man of Marvels"
+universe	"Marvel Universe"
+weight	108
+52	
+education	"Hydra Training"
+height	177
+identity	"Known to Hydra"
+name	"Bob, Agent of Hydra"
+universe	"Marvel Universe"
+weight	82.35000000000001
+53	
+education	"Unrevealed"
+height	180
+identity	"Publicly known"
+name	"Boomerang"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	78.75
+54	
+education	"Elementary school education"
+height	170
+identity	"No dual identity"
+name	"Butterfly"
+other_aliases	'"Butterfly"'
+universe	"Marvel Universe"
+weight	59.4
+55	
+education	"Unrevealed"
+height	175
+identity	"No dual identity"
+name	"Callisto"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	74.25
+56	
+education	"Unrevealed"
+height	175
+identity	"No dual identity"
+name	"Callisto (Age of Apocalypse)"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	74.25
+57	
+education	"Elementary school (incomplete)"
+height	139
+identity	"No dual identity"
+name	"Cammi"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	36
+58	
+education	"PhD in Physics from Thames University"
+height	198
+identity	"Known to U.K. authorities"
+name	"Captain Britain"
+other_aliases	"Bee, Black Bishop, Britanic, Captain Britain-616, Captain Wakanda, Custodian, Fast Buck, Jungle Man, Lionheart of Avalon"
+universe	"Marvel Universe"
+weight	115.65
+59	
+education	"PhD in Physics from Thames University"
+height	198
+identity	"Known to U.K. authorities"
+name	"Captain Britain (Ultimate)"
+other_aliases	"Bee, Black Bishop, Britanic, Captain Britain-616, Captain Wakanda, Custodian, Fast Buck, Jungle Man, Lionheart of Avalon"
+universe	"Marvel Universe"
+weight	115.65
+60	
+education	"College educated"
+height	185
+identity	"Public"
+name	"Captain Stacy"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	85.5
+61	
+education	"Doctorate in Medicine"
+height	195
+identity	"Secret"
+name	"Cardiac"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	135
+62	
+education	"Unrevealed"
+height	190
+identity	"Unrevealed"
+name	"Caretaker"
+other_aliases	"Old man"
+universe	"Marvel Universe"
+weight	90
+63	
+education	"B.S. in biochemistry, M.S. in forensic science, various NYPD Training Academy courses"
+height	172
+identity	"No dual identity"
+name	"Carlie Cooper"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	60.300000000000004
+64	
+education	"Various courses at Massachusetts Academy"
+height	182
+identity	"Secret"
+name	"Catseye"
+other_aliases	"Sharon Smith"
+universe	"Marvel Universe"
+weight	54
+65	
+education	"Doctor of Medicine"
+height	170
+identity	"Secret"
+name	"Cecilia Reyes"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	54
+66	
+education	"College graduate, police academy training"
+height	160
+identity	"Publicly known"
+name	"Centennial"
+other_aliases	"Captain Tomorrow, Justice Man, Flying Fossil, Old Man"
+universe	"Marvel Universe"
+weight	49.5
+67	
+education	"Unrevealed"
+height	190
+identity	"Secret; the general populace of Earth is unaware that Cerise is an alien"
+name	"Cerise"
+other_aliases	"None known"
+universe	"Marvel Universe"
+weight	85.5
+68	
+education	"Massachusetts Academy"
+height	175
+identity	"Secret"
+name	"Chamber"
+other_aliases	"Decibel"
+universe	"Marvel Universe"
+weight	63
+69	
+education	"Unrevealed"
+height	180
+identity	"Secret"
+name	"Changeling"
+other_aliases	"Morph, Professor X, Professor Charles Xavier"
+universe	"Marvel Universe"
+weight	81
+70	
+education	"Unrevealed"
+height	185
+identity	"Known to authorities"
+name	"Chimera"
+other_aliases	'"Gaslight Frail"'
+universe	"Marvel Universe"
+weight	63
+71	
+education	"Extensive studies of sorcery under Doctor Strange"
+height	172
+identity	"Publicly known in the Dark Dimension (the general populace of Earth does not know that Clea is an extradimensional or believe that she is a true sorceress)"
+name	"Clea"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	85.5
+72	
+education	"Extensive studies of sorcery under Doctor Strange"
+height	172
+identity	"Publicly known in the Dark Dimension (the general populace of Earth does not know that Clea is an extradimensional or believe that she is a true sorceress)"
+name	"Clea (Ultimate)"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	85.5
+73	
+education	"unspecified college degree"
+height	180
+identity	"Known to authorities"
+name	"Constrictor"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	85.5
+74	
+education	"Advanced degree in science, engineering"
+height	187
+identity	"Secret"
+name	"Controller"
+other_aliases	"Alexander Basel"
+universe	"Marvel Universe"
+weight	254.25
+75	
+education	"Unrevealed"
+height	190
+identity	"Secret"
+name	"Corsair"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	78.75
+76	
+education	"College graduate"
+height	187
+identity	"Publicly known"
+name	"Count Nefaria"
+other_aliases	"Stox, Dream Maker, Dream Master"
+universe	"Marvel Universe"
+weight	103.5
+77	
+education	"Masters degree in electrical engineering"
+height	182
+identity	"Publicly known (Deseased)"
+name	"Crimson Dynamo"
+other_aliases	'"The Crimson Dynamo"'
+universe	"Marvel Universe"
+weight	108
+78	
+education	"Masters degree in electrical engineering"
+height	182
+identity	"Publicly known (Deseased)"
+name	"Crimson Dynamo (Iron Man 3 - The Official Game)"
+other_aliases	'"The Crimson Dynamo"'
+universe	"Marvel Universe"
+weight	108
+79	
+education	"High school dropout"
+height	193
+identity	"Known to the authorities"
+name	"Crossbones"
+other_aliases	"Bingo, Frag, Mr. Bones"
+universe	"Marvel Universe"
+weight	130.5
+80	
+education	"Unrevealed"
+height	203
+identity	"Secret"
+name	"Crule"
+other_aliases	"Krule"
+universe	"Marvel Universe"
+weight	148.05
+81	
+education	"High-school dropout"
+height	177
+identity	"No dual identity"
+name	"Crusher Hogan"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	94.5
+82	
+education	"High-school dropout"
+height	177
+identity	"No dual identity"
+name	"Crusher Hogan (Ultimate)"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	94.5
+83	
+education	"Unidentified vocational college"
+height	193
+identity	"Secret"
+name	"Cyber"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	164.25
+84	
+education	"College degree from Professor Xavier's School for Gifted Youngsters, post-graduate courses"
+height	190
+identity	"Publicly known"
+name	"Cyclops (Ultimate)"
+other_aliases	'"Slim"; formerly Slym Dayspring, Mutate #007, Erik the Red'
+universe	"Marvel Universe"
+weight	87.75
+85	
+education	"College degree from Professor Xavier's School for Gifted Youngsters, post-graduate courses"
+height	190
+identity	"Publicly known"
+name	"Cyclops (X-Men: Battle of the Atom)"
+other_aliases	'"Slim"; formerly Slym Dayspring, Mutate #007, Erik the Red'
+universe	"Marvel Universe"
+weight	87.75
+86	
+education	"High school, university level courses in languages & computer science"
+height	175
+identity	"Secret"
+name	"Cypher"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	67.5
+87	
+education	"Unrevealed"
+height	170
+identity	"Publicly Known"
+name	"Dakota North"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	58.5
+88	
+education	"Ph.D in Biochemistry"
+height	180
+identity	"Secret (general populace of Earth-616 is unaware of McCoy's existence)"
+name	"Dark Beast"
+other_aliases	"Beast, Black Beast"
+universe	"Marvel Universe, formerly Age of Apocalypse"
+weight	159.75
+89	
+education	"Military training; KGB intelligence training"
+height	167
+identity	"Known to Russian government officials"
+name	"Darkstar"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	56.25
+90	
+education	"Muir-MacTaggert Research & Development Institute, New York; Biltmore Academy for Advanced Education, New York; unidentified middle school"
+height	193
+identity	"Secret"
+name	"Darwin"
+other_aliases	"The Evolving Boy"
+universe	"Marvel Universe"
+weight	67.5
+91	
+education	"Unrevealed, presumed high school graduate"
+height	172
+identity	"Secret"
+name	"Dead Girl"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	45.45
+92	
+education	"Unrevealed"
+height	172
+identity	"Secret, publicly known in the Shi'ar Empire"
+name	"Deathbird"
+other_aliases	"Formerly War, Death Phoenix"
+universe	"Marvel Universe"
+weight	81.45
+93	
+education	"Unrevealed"
+height	175
+identity	"Secret"
+name	"Deathcry"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	87.75
+94	
+education	"Privately tutored"
+height	175
+identity	"Secret"
+name	"Deathstrike (Ultimate)"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	57.6
+95	
+education	"Unrevealed"
+height	170
+identity	"Secret (known to some government officials)"
+name	"Destiny"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	49.5
+96	
+education	"Combat trained"
+height	218
+identity	"Not known to the general populace of Earth"
+name	"Devos"
+other_aliases	"The Devastator"
+universe	"Marvel Universe"
+weight	"Unrevealed"
+97	
+education	"Unrevealed"
+height	200
+identity	"Known to authorities"
+name	"Dinah Soar"
+other_aliases	"Wisconsin's Winged Wonder, Ms. Rodan '97"
+universe	"Marvel Universe"
+weight	44.1
+98	
+education	"Ph.D. in psychiatry"
+height	198
+identity	"Publicly known"
+name	"Doc Samson"
+other_aliases	"Samson"
+universe	"Marvel Universe"
+weight	171
+99	
+education	"Tutored by finest instructors of the 15th century; extensively self-taught"
+height	195
+identity	"True nature disbelieved by general public"
+name	"Dracula"
+other_aliases	"Count Dracula, the Devil, Dr. Vlad, Dragon, Drake, Justin Drake, Father Death, the Impaler, Kaziglu Bey/Impaler Prince, Prince of Darkness, Vladimir Tepesch, and Lord of the Damned, Undead, and Vampires"
+universe	"Marvel Universe"
+weight	99
+100	
+education	"None"
+height	467
+identity	"Publicly Known"
+name	"Dragon Man"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	0.9
+101	
+education	"Currently in high school level courses"
+height	167
+identity	"Secret"
+name	"Dust"
+other_aliases	"Turaab (Dust in Arabic)"
+universe	"Marvel Universe"
+weight	61.2
+102	
+height	182
+identity	"Secret"
+name	"Earthquake"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	99
+103	
+education	"University graduate"
+height	180
+identity	"Publicly known"
+name	"Edwin Jarvis"
+other_aliases	"Crimson Cowl"
+universe	"Marvel Universe"
+weight	72
+104	
+education	"Currently in high school level courses"
+height	175
+identity	"Secret"
+name	"Elixir"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	70.65
+105	
+education	"High School equivalent, some college courses"
+height	175
+identity	"Public"
+name	"Elsa Bloodstone"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	54
+106	
+education	"College degree in business administration, qualified sex therapist"
+height	177
+identity	"Frost is known to have been a leader of the Hellfire Club, but her past criminal activities are not public knowledge"
+name	"Emma Frost"
+other_aliases	"Formerly White Queen"
+universe	"Marvel Universe"
+weight	64.8
+107	
+education	"High school graduate"
+height	190
+identity	"Secret"
+name	"Emplate"
+other_aliases	"Formerly M-Plate (with sisters)"
+universe	"Marvel Universe"
+weight	70.2
+108	
+education	"Unrevealed"
+height	195
+identity	"No dual identity"
+name	"Fabian Cortez"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	96.3
+109	
+education	"Unrevealed"
+height	175
+identity	"Secret"
+name	"Fantomex"
+other_aliases	"Jean-Phillipe, Weapon XIII"
+universe	"Marvel Universe"
+weight	78.3
+110	
+education	"Unrevealed"
+height	177
+identity	"Secret"
+name	"Felicia Hardy"
+other_aliases	"Jane Doe"
+universe	"Marvel Universe"
+weight	51.75
+111	
+education	"Unrevealed"
+height	1087
+identity	"Secret"
+name	"Fin Fang Foom"
+other_aliases	'"He Whose Limbs Shatter Mountains and Whose Back Scrapes the Sun"'
+universe	"Marvel Universe"
+weight	9
+112	
+education	"State College graduate (social work degree)"
+height	165
+identity	"Secret"
+name	"Firebird"
+other_aliases	"Pajaro Del Fuego, Firemaiden, La Espirita"
+universe	"Marvel Universe"
+weight	56.25
+113	
+education	"Xandarian Nova Corps Academy"
+height	193
+identity	"Secret"
+name	"Firelord"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	99
+114	
+education	"High school, plus Massachusetts academy classes, university graduate, now a graduate student majoring in Art History (Marvel Divas #1)"
+height	157
+identity	"Secret, but known to certain government officials"
+name	"Firestar"
+other_aliases	"Lady Comet, Angel"
+universe	"Marvel Universe"
+weight	45.45
+115	
+education	"High school, plus Massachusetts academy classes, university graduate, now a graduate student majoring in Art History (Marvel Divas #1)"
+height	157
+identity	"Secret, but known to certain government officials"
+name	"Firestar (Ultimate)"
+other_aliases	"Lady Comet, Angel"
+universe	"Marvel Universe"
+weight	45.45
+116	
+education	"Unrevealed"
+height	195
+identity	"Secret"
+name	"Forgotten One"
+other_aliases	"Gilgamesh, Hero, Hercules, Samson, many other aliases as yet unrevealed"
+universe	"Marvel Universe"
+weight	117
+117	
+education	"none"
+height	142
+identity	"No dual identity"
+name	"Franklin Richards"
+other_aliases	"Franklin Benjamin, Tattletale, Psi-Lord, Ego-Spawn, Avatar"
+universe	"Marvel Universe"
+weight	45
+118	
+education	"High school dropout"
+height	187
+identity	"Known to Canadian & U.S. governments"
+name	"Garrison Kane"
+other_aliases	"Weapon X"
+universe	"Marvel Universe"
+weight	216
+119	
+education	"Unrevealed"
+height	137
+identity	"Secret"
+name	"Gateway"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	36
+120	
+education	"BS in physics from Empire State University"
+height	172
+identity	"Known"
+name	"Geiger"
+other_aliases	"Mistaken for "
+universe	"Marvel Universe"
+weight	54.9
+121	
+education	"Unrevealed"
+height	185
+identity	"Secret"
+name	"Genesis"
+other_aliases	"Tolliver"
+universe	"Marvel Universe; formerly Earth-4935"
+weight	85.95
+122	
+education	"College educated"
+height	185
+identity	"Public"
+name	"George Stacy (Ultimate)"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	85.5
+123	
+education	"Military academy graduate"
+height	185
+identity	"No dual identity"
+name	"Glenn Talbot"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	96.75
+124	
+education	"Eudcated by private tutors hired by his father and later taught by the Shaper of Worlds"
+height	175
+identity	"Secret"
+name	"Glorian"
+other_aliases	"Glorian, the Dreamer"
+universe	"Marvel Universe"
+weight	69.75
+125	
+education	"College Student"
+height	177
+identity	"Secret"
+name	"Gravity"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	78.75
+126	
+education	"High school graduate"
+height	193
+identity	"Publicly known"
+name	"Grim Reaper"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	101.25
+127	
+education	"Unrevealed"
+height	177
+identity	"Secret"
+name	"Hammerhead"
+other_aliases	"Mister H"
+universe	"Marvel Universe"
+weight	119.25
+128	
+education	"Unrevealed"
+height	177
+identity	"Secret"
+name	"Hammerhead (Ultimate)"
+other_aliases	"Mister H"
+universe	"Marvel Universe"
+weight	119.25
+129	
+education	"Unrevealed"
+height	180
+identity	"Secret"
+name	"Hannibal King"
+other_aliases	"Henry Kagle"
+universe	"Marvel Universe"
+weight	85.5
+130	
+education	"Unrevealed; some military training"
+height	187
+identity	"Known to the authorities"
+name	"Harrier"
+other_aliases	"Cardinal"
+universe	"Marvel Universe"
+weight	115.65
+131	
+education	"College degree"
+height	177
+identity	"Publicly known"
+name	"Harry Osborn"
+other_aliases	"Formerly the Green Goblin"
+universe	"Marvel Universe"
+weight	76.5
+132	
+education	"College degree"
+height	177
+identity	"Publicly known"
+name	"Harry Osborn (Ultimate)"
+other_aliases	"Formerly the Green Goblin"
+universe	"Marvel Universe"
+weight	76.5
+133	
+education	"Masters degree in geophysics, some doctoral research completed"
+height	182
+identity	"Secret"
+name	"Havok"
+other_aliases	"Formerly Mutant X, Goblin Prince"
+universe	"Marvel Universe"
+weight	78.75
+134	
+education	"Currently in high school level courses"
+height	177
+identity	"Secret"
+name	"Hellion"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	76.5
+135	
+education	"University graduate"
+height	185
+identity	"None"
+name	"Henry Peter Gyrich"
+other_aliases	"Bad News Pete"
+universe	"Marvel Universe"
+weight	92.25
+136	
+education	"Unrevealed"
+height	167
+identity	"Known in the Shi'ar Empire"
+name	"Hepzibah"
+other_aliases	"Mam'selle Hepzibah, Zee"
+universe	"Marvel Universe"
+weight	54
+137	
+education	"Unrevealed"
+height	195
+identity	"Publicly known; however, not all modern day Earth people believe Hercules is the actual Hercules of myth."
+name	"Hercules"
+universe	"Marvel Universe"
+weight	146.25
+138	
+education	"Four-year college degree and limited training in various martial and mystic arts"
+height	78
+identity	"Publicly known (most people believe Howard is a small person in a duck suit, not a real talking duck)"
+name	"Howard The Duck"
+other_aliases	"Count Drakula, Dirk Byrd, Dark Mallard of the Night, Dopey Duck, Drakula, the Drivin' Drake, Duckboy, Duck-Man, the Ducknight Detective, the Feathered Fury, Howard the Human, Iron Duck, Killmallard, Leonard the Duck, Master of Quak Fu, Mister Duck, Pondhopper, Santa Claus, Shang-Op, Son of Satan, Osama el-Braka"
+universe	"Marvel Universe"
+weight	18
+139	
+education	"Able to access knowledge from any computer database on Earth"
+height	190
+identity	"No dual identity"
+name	"Human Robot"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	225
+140	
+education	"Glenville High graduate; former student at Empire State University and Metro University"
+height	177
+identity	"Publicly known"
+name	"Human Torch"
+other_aliases	"Matchstick Johnny, Doug Brown"
+universe	"Marvel Universe"
+weight	76.5
+141	
+education	"N/A"
+height	190
+identity	"Secret"
+name	"Human Torch (Jim Hammond)"
+other_aliases	"Jim Hammond"
+universe	"Marvel Universe"
+weight	135
+142	
+education	"Glenville High graduate; former student at Empire State University and Metro University"
+height	177
+identity	"Publicly known"
+name	"Human Torch (Ultimate)"
+other_aliases	"Matchstick Johnny, Doug Brown"
+universe	"Marvel Universe"
+weight	76.5
+143	
+education	"Ph.D. in entomology"
+height	167
+identity	"Known to authorities"
+name	"Humbug"
+other_aliases	"The Bug-Man of Alcatraz, Red Baron"
+universe	"Marvel Universe"
+weight	58.5
+144	
+education	"Various courses at Xavier Institute"
+height	170
+identity	"Secret"
+name	"Husk"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	57.6
+145	
+education	"Unrevealed"
+height	165
+identity	"Secret"
+name	"Hussar"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	54
+146	
+education	"Unrevealed"
+height	187
+identity	"Known to the authorities"
+name	"Hydro-Man"
+other_aliases	"Morrie, Mud-Thing"
+universe	"Marvel Universe"
+weight	119.25
+147	
+education	"High school (incomplete)"
+height	180
+identity	"Known to authorities \n|occupation = Unrevealed; former thief, night club performer"
+name	"Hypno-Hustler"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	81
+148	
+education	"College degree, Certified Practicing Accountant accreditation"
+height	172
+identity	"Secret, known to certain government officials"
+name	"Iceman"
+other_aliases	"Formerly Mister Friese, Drake Roberts, Rampage"
+universe	"Marvel Universe"
+weight	65.25
+149	
+education	"College degree, Certified Practicing Accountant accreditation"
+height	172
+identity	"Secret, known to certain government officials"
+name	"Iceman (Ultimate)"
+other_aliases	"Formerly Mister Friese, Drake Roberts, Rampage"
+universe	"Marvel Universe"
+weight	65.25
+150	
+education	"College degree, Certified Practicing Accountant accreditation"
+height	172
+identity	"Secret, known to certain government officials"
+name	"Iceman (X-Men: Battle of the Atom)"
+other_aliases	"Formerly Mister Friese, Drake Roberts, Rampage"
+universe	"Marvel Universe"
+weight	65.25
+151	
+height	187
+identity	"Secret"
+name	"Ikaris"
+other_aliases	"Ike Harris, Iceberg, Sovereign"
+universe	"Marvel Universe"
+weight	103.5
+152	
+education	"Unrevealed"
+height	193
+identity	"No dual identity"
+name	"Impossible Man"
+other_aliases	"Impy, Ottoman; impersonated Bridget O’Shaughnessy and innumerable others"
+universe	"Marvel Universe"
+weight	74.25
+153	
+education	"Unrevealed"
+height	162
+identity	"Publicly known to the people of Earth-712"
+name	"Inertia"
+other_aliases	"None"
+universe	"Earth-712"
+weight	51.300000000000004
+154	
+education	"High school education, incomplete college studies"
+height	167
+identity	"Publicly known"
+name	"Invisible Woman (Marvel: Avengers Alliance)"
+other_aliases	"Baroness Von Doom, Stormy Sue, Malice, Mistress of Hate, Susan Benjamin, Invisible Girl, Mrs.Fantastic, Invisible Woman"
+universe	"Marvel Universe"
+weight	54
+155	
+education	"High school education, incomplete college studies"
+height	167
+identity	"Publicly known"
+name	"Invisible Woman (Ultimate)"
+other_aliases	"Baroness Von Doom, Stormy Sue, Malice, Mistress of Hate, Susan Benjamin, Invisible Girl, Mrs.Fantastic, Invisible Woman"
+universe	"Marvel Universe"
+weight	54
+156	
+education	"High School Student"
+height	175
+identity	"Secret"
+name	"Iron Lad"
+other_aliases	"Kang The Conqueror, Young Kang, others"
+universe	"Marvel Universe"
+weight	74.7
+157	
+education	"High school graduate"
+height	185
+identity	"Secret"
+name	"Jack Flag"
+other_aliases	"Formerly King Cobra, AZ-1260"
+universe	"Marvel Universe"
+weight	94.5
+158	
+education	"Ph.D in biochemistry"
+height	177
+identity	"Known to authorities"
+name	"Jackal"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	78.75
+159	
+education	"University graduate"
+height	185
+identity	"No dual identity"
+name	"Jamie Braddock"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	67.95
+160	
+education	"Unrevealed"
+height	167
+identity	"No dual identity"
+name	"Jazinda"
+other_aliases	"Jaz; impersonated Darqon Par, General Eng, Jenifer Walters, Mrs. Murphy, others"
+universe	"Marvel Universe"
+weight	60.75
+161	
+education	"FBI training, U.S. intelligence training"
+height	172
+identity	"No dual identity"
+name	"Jimmy Woo"
+other_aliases	"Jimmy Woo, Woo Yen Jet, Master Woo, Khan of the Eternal Empire"
+universe	"Marvel Universe"
+weight	76.5
+162	
+education	"Unknown"
+height	187
+identity	"Secret"
+name	"Josiah X"
+other_aliases	"Josiah X, Justice, Josiah Smith, A-39"
+universe	"Marvel Universe"
+weight	108
+163	
+education	"University Of Arizona (unfinished)"
+height	172
+identity	"Known to authorities"
+name	"Joystick"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	64.35000000000001
+164	
+education	"Various courses at Xavier Institute, Massachusetts Academy, and Payton-Noble High School"
+height	165
+identity	"Secret"
+name	"Jubilee"
+other_aliases	'Wondra, "Jubes"'
+universe	"Marvel Universe"
+weight	51.75
+165	
+education	"Various courses at Xavier Institute, Massachusetts Academy, and Payton-Noble High School"
+height	165
+identity	"Secret"
+name	"Jubilee (Age of Apocalypse)"
+other_aliases	'Wondra, "Jubes"'
+universe	"Marvel Universe"
+weight	51.75
+166	
+education	"Military boarding school"
+height	287
+identity	"Known to authorities and certain government officials"
+name	"Juggernaut"
+other_aliases	"Formerly Exemplar of Physical Power"
+universe	"Marvel Universe"
+weight	0.45
+167	
+education	"College studies in progress"
+height	177
+identity	"Publicly known"
+name	"Justice"
+other_aliases	"Marvel Boy, Marvel Man, Manglin' John Mahoney, the Astounding Astrovik, Superhuman Penitentary Prisoner 344678, Squire Justice, Super Tights, Vance Astro"
+universe	"Marvel Universe"
+weight	81
+168	
+education	"Incomplete primary education"
+height	187
+identity	"Publicly known"
+name	"Ka-Zar"
+other_aliases	"Lord of the Hidden Jungle"
+universe	"Marvel Universe"
+weight	96.75
+169	
+education	"unrevealed"
+height	162
+identity	"Secret"
+name	"Karma"
+other_aliases	"Shan"
+universe	"Marvel Universe"
+weight	53.550000000000004
+170	
+height	177
+identity	"No dual identity"
+name	"Ken Ellis"
+other_aliases	"None"
+weight	74.25
+171	
+education	"Unrevealed; military training"
+height	195
+identity	"Publicly known"
+name	"Killer Shrike"
+other_aliases	"Harold Simmons"
+universe	"Marvel Universe"
+weight	112.5
+172	
+education	"Some university-level courses"
+height	167
+identity	"Secret"
+name	"Kitty Pryde"
+other_aliases	"Shadowcat, Cat, Kitten, formerly Ariel, Sprite"
+universe	"Marvel Universe"
+weight	49.5
+173	
+education	"Some university-level courses"
+height	167
+identity	"Secret"
+name	"Kitty Pryde (X-Men: Battle of the Atom)"
+other_aliases	"Shadowcat, Cat, Kitten, formerly Ariel, Sprite"
+universe	"Marvel Universe"
+weight	49.5
+174	
+education	"College educated"
+height	182
+identity	"No dual identity"
+name	"Kraven the Hunter"
+other_aliases	"Kraven the Hunter, World's Greatest Hunter, the Grim Hunter"
+universe	"Marvel Universe"
+weight	105.75
+175	
+education	"Primary school (unfinished); trained as a warrior"
+height	180
+identity	"Secret"
+name	"Kylun"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	76.5
+176	
+education	"Unrevealed"
+height	190
+identity	"Publicly known"
+name	"La Nuit"
+other_aliases	'"The Night" (English translation of codename)'
+universe	"Marvel Universe"
+weight	77.4
+177	
+education	"Unrevealed; extensive martial arts training"
+height	167
+identity	"Secret"
+name	"Lady Bullseye"
+other_aliases	"Maki Matsumoto"
+universe	"Marvel Universe"
+weight	53.550000000000004
+178	
+education	"Privately tutored"
+height	175
+identity	"Secret"
+name	"Lady Deathstrike"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	57.6
+179	
+education	"unrevealed"
+height	177
+identity	"Secret"
+name	"Lady Mastermind"
+other_aliases	"unrevealed"
+universe	"Marvel Universe"
+weight	66.15
+180	
+education	"Unrevealed"
+height	172
+identity	"No dual identity"
+name	"Lila Cheney"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	54
+181	
+height	180
+identity	"No dual identity"
+name	"Lilandra"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	49.5
+182	
+education	"College studies in progress"
+height	175
+identity	"Publicly known"
+name	"Living Lightning"
+other_aliases	"El Relampago Vivo, Sir Fulminator"
+universe	"Marvel Universe"
+weight	76.5
+183	
+education	"<a href='/teams-and-groups/s-h-i-e-l-d'>S.H.I.E.L.D.</a> covert operations training"
+height	228
+identity	"No dual identity"
+name	"Living Mummy"
+other_aliases	'The Mummy, "Captain Ace Bandages"'
+universe	"Marvel Universe"
+weight	292.5
+184	
+education	"Graduate of Midtown High School and Certified Nurse's Aid program"
+height	175
+identity	"No dual identity"
+name	"Liz Osborn"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	60.75
+185	
+education	"Unrevealed"
+height	76
+identity	"No dual identity"
+name	"Lockheed"
+other_aliases	"Lockheed, Dragon"
+universe	"Marvel Universe"
+weight	9
+186	
+education	"Unrevealed"
+height	187
+identity	"Publicly known in the Wildways, secret from the general populace of Earth"
+name	"Longshot"
+other_aliases	"Lucky One, Fallen Messiah"
+universe	'Wildways ("Mojoverse"); currently in exile'
+weight	36
+187	
+education	"Unrevealed"
+height	187
+identity	"Publicly known in the Wildways, secret from the general populace of Earth"
+name	"Longshot (Ultimate)"
+other_aliases	"Lucky One, Fallen Messiah"
+universe	'Wildways ("Mojoverse"); currently in exile'
+weight	36
+188	
+education	"College dropout, federal agent training"
+height	175
+identity	"Secret, known to certain government officials"
+name	"Madame Web (Julia Carpenter)"
+other_aliases	"Spider-Woman; considered using Ariadne"
+universe	"Marvel Universe"
+weight	63
+189	
+education	"Unrevealed"
+height	167
+identity	"Secret"
+name	"Madelyne Pryor"
+other_aliases	"Maddie, Anodyne, Mutate #9818, Goblyn Queen, Red Queen"
+universe	"Marvel Universe"
+weight	49.5
+190	
+education	"Advanced training in <a href='/teams-and-groups/inhumans'>Inhuman</a> and <a href='/characters/deviants'>Deviant</a> genetic sciences"
+height	248
+identity	"The general populace of Earth were unaware of Maelstrom's existence."
+name	"Maelstrom"
+other_aliases	"Malcom Stromberg, The Cosmic Assassin, Anomaly II"
+universe	"Marvel Universe"
+weight	191.25
+191	
+education	"Unrevealed"
+height	200
+identity	"Secret"
+name	"Magdalene"
+other_aliases	"Lady Magdalene"
+universe	"Earth-9021"
+weight	91.35000000000001
+192	
+education	"Unrevealed"
+height	203
+identity	"Secret"
+name	"Maggott"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	157.5
+193	
+education	"High-school level courses at Xavier’s School"
+height	165
+identity	"Secret"
+name	"Magik (Amanda Sefton)"
+other_aliases	"Darkchilde Archimage, Red Flag #133"
+universe	"Marvel Universe"
+weight	54
+194	
+education	"High school equivalency,numerous college-level course"
+height	167
+identity	"Secret"
+name	"Magma (Amara Aquilla)"
+other_aliases	"Alison Crestmere"
+universe	"Marvel Universe"
+weight	58.95
+195	
+education	"Multiple College Degrees"
+height	187
+identity	"Secret"
+name	"Mandarin"
+other_aliases	"Gene Kahn, Zhang Tong, Chu"
+universe	"Marvel Universe"
+weight	96.75
+196	
+education	"Unrevealed"
+height	182
+identity	"Public"
+name	"Mandrill"
+other_aliases	"Hensley Fargus"
+universe	"Marvel Universe"
+weight	121.5
+197	
+education	"Unrevealed"
+height	167
+identity	"Secret"
+name	"Manta"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	56.25
+198	
+education	"Unrevealed"
+height	152
+identity	"No dual identity"
+name	"Mariko Yashida"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	45
+199	
+education	"Trained by Callisto, military and espionage training"
+height	182
+identity	"Secret"
+name	"Marrow"
+other_aliases	"Sarah Rushman"
+universe	"Marvel Universe"
+weight	72
+200	
+education	"Trained by Uranian Eternals in advanced sciences"
+height	177
+identity	"Publicly known"
+name	"Marvel Boy"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	76.5
+201	
+education	"College educated"
+height	172
+identity	"No dual identity"
+name	"Mary Jane Watson"
+other_aliases	"MJ, Crimson She-Devil"
+universe	"Marvel Universe"
+weight	54
+202	
+education	"College educated"
+height	172
+identity	"No dual identity"
+name	"Mary Jane Watson (House of M)"
+other_aliases	"MJ, Crimson She-Devil"
+universe	"Marvel Universe"
+weight	54
+203	
+education	"College educated"
+height	172
+identity	"No dual identity"
+name	"Mary Jane Watson (Ultimate)"
+other_aliases	"MJ, Crimson She-Devil"
+universe	"Marvel Universe"
+weight	54
+204	
+education	"High School graduate"
+height	165
+identity	"No dual identity"
+name	"May Parker"
+other_aliases	"Aunt May, May Reilly, May"
+universe	"Marvel Universe"
+weight	49.5
+205	
+education	"Collage graduate"
+height	167
+identity	"Secret"
+name	"Menace"
+other_aliases	"Menace of Manhattan, Grey Goblin, Mock-Goblin"
+universe	"Marvel Universe"
+weight	52.2
+206	
+education	"Unrevealed; S.H.I.E.L.D. training"
+height	177
+identity	"Known to the authorities"
+name	"Mentallo"
+other_aliases	"Think Tank"
+universe	"Marvel Universe"
+weight	78.75
+207	
+education	"Unrevealed"
+height	177
+identity	"Secret"
+name	"Mesmero"
+other_aliases	"Thomas, Thorton, Junichi, The Wizard, others"
+universe	"Marvel Universe"
+weight	81
+208	
+education	"High school graduate, some college"
+height	170
+identity	"Publicly known"
+name	"Millie the Model"
+other_aliases	"The Blonde Phantom, Millie the Marvel, the Blonde Bombshell"
+universe	"Marvel Universe"
+weight	61.65
+209	
+education	"College Graduate"
+height	187
+identity	"Secret"
+name	"Mimic"
+other_aliases	"Cal, Wolverine"
+universe	"Marvel Universe"
+weight	101.25
+210	
+education	"High-school equivalent from orphanage"
+height	185
+identity	"Publicly known"
+name	"Mindworm"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	94.5
+211	
+height	195
+identity	"Secret"
+name	"Mister Sinister"
+other_aliases	"Sinister, Robert Windsor, Arnold Bocklin, Mike Milbury, Apocalypse, Steven Shaffran, Edmond Atkinson, Nate, Administrator Pearson, Nosferatu, Nathan Milbury, Pale Man"
+universe	"Marvel Universe"
+weight	128.25
+212	
+height	195
+identity	"Secret"
+name	"Mister Sinister (Deadpool)"
+other_aliases	"Sinister, Robert Windsor, Arnold Bocklin, Mike Milbury, Apocalypse, Steven Shaffran, Edmond Atkinson, Nate, Administrator Pearson, Nosferatu, Nathan Milbury, Pale Man"
+universe	"Marvel Universe"
+weight	128.25
+213	
+height	195
+identity	"Secret"
+name	"Mister Sinister (House of M)"
+other_aliases	"Sinister, Robert Windsor, Arnold Bocklin, Mike Milbury, Apocalypse, Steven Shaffran, Edmond Atkinson, Nate, Administrator Pearson, Nosferatu, Nathan Milbury, Pale Man"
+universe	"Marvel Universe"
+weight	128.25
+214	
+height	195
+identity	"Secret"
+name	"Mister Sinister (Ultimate)"
+other_aliases	"Sinister, Robert Windsor, Arnold Bocklin, Mike Milbury, Apocalypse, Steven Shaffran, Edmond Atkinson, Nate, Administrator Pearson, Nosferatu, Nathan Milbury, Pale Man"
+universe	"Marvel Universe"
+weight	128.25
+215	
+education	"PhD in biology"
+height	175
+identity	"Secret"
+name	"Mockingbird"
+other_aliases	"the Huntress, Agent 19, Roberta Morse, once posed as Shooting Star"
+universe	"Marvel Universe"
+weight	60.75
+216	
+education	"PhD in genetics"
+height	170
+identity	"No dual identity"
+name	"Moira MacTaggert"
+other_aliases	"Last name frequently misspelled MacTaggart"
+universe	"Marvel Universe"
+weight	60.75
+217	
+education	"PhD in genetics"
+height	170
+identity	"No dual identity"
+name	"Moira MacTaggert (Ultimate)"
+other_aliases	"Last name frequently misspelled MacTaggart"
+universe	"Marvel Universe"
+weight	60.75
+218	
+education	"Unrevealed; self-educated in <a href='/characters/deviants'>Deviant</a> technology"
+height	147
+identity	"Secret"
+name	"Mole Man"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	74.25
+219	
+education	"Unrevealed"
+height	170
+identity	"Secret"
+name	"Molecule Man"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	63
+220	
+education	"College graduate"
+height	195
+identity	"Publicly known"
+name	"Molten Man"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	247.5
+221	
+education	"High-school graduate"
+height	187
+identity	"Known to <a href='/teams-and-groups/s-h-i-e-l-d'>S.H.I.E.L.D.</a> authorities"
+name	"Moon Knight (House of M)"
+other_aliases	"Jake Lockley, Steven Grant, Fist of Khonshu, Yitzak Topol"
+universe	"Marvel Universe"
+weight	101.25
+222	
+education	"High-school graduate"
+height	187
+identity	"Known to <a href='/teams-and-groups/s-h-i-e-l-d'>S.H.I.E.L.D.</a> authorities"
+name	"Moon Knight (Ultimate)"
+other_aliases	"Jake Lockley, Steven Grant, Fist of Khonshu, Yitzak Topol"
+universe	"Marvel Universe"
+weight	101.25
+223	
+education	"Trained in combat"
+height	198
+identity	"No dual Identity"
+name	"Morg"
+other_aliases	"The Berzeker"
+universe	"Marvel Universe"
+weight	855
+224	
+education	"Master's Degree in Computer Engineering"
+height	177
+identity	"Publicly known"
+name	"Morph"
+other_aliases	"None"
+universe	"Earth-1081; Omniverse"
+weight	78.75
+225	
+education	"Multiple scientific doctorates in fields such as engineering, math and physics from California State Institute of Technology, Columbia University, Harvard and State University, and others"
+height	185
+identity	"Publicly known"
+name	"Mr. Fantastic (Ultimate)"
+other_aliases	'Doctor Doom, Richard Reed, Invincible Man, Reed Benjamin, "Man in the Mystery Mask", Mister "Elastic"'
+universe	"Marvel Universe"
+weight	81
+226	
+education	"Unrevealed"
+height	187
+identity	"Known to authorities"
+name	"Mr. Immortal"
+other_aliases	'"Mr. I", "Immy"'
+universe	"Marvel Universe"
+weight	70.2
+227	
+education	"College-level courses"
+height	180
+identity	"Publicly known"
+name	"Multiple Man"
+other_aliases	"none"
+universe	"Marvel Universe"
+weight	69.75
+228	
+education	"(Progenitor) incomplete college studies, University of Kentucky; (clone) has both MVP's college memories"
+height	180
+identity	"Publicly known"
+name	"MVP"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	77.85000000000001
+229	
+education	"Unrevealed"
+height	177
+identity	"Secret"
+name	"Mystique"
+other_aliases	"Raven Darkhölme, Foxx, Helmut Stein, Mallory Brickman, B. Byron Biggs, Surge, Ronnie Lake, Holt Adler, Leni Zauber, Raven Wagner, Randy Green, others"
+universe	"Marvel Universe"
+weight	54
+230	
+education	"Unrevealed"
+height	177
+identity	"Secret"
+name	"Mystique (Age of Apocalypse)"
+other_aliases	"Raven Darkhölme, Foxx, Helmut Stein, Mallory Brickman, B. Byron Biggs, Surge, Ronnie Lake, Holt Adler, Leni Zauber, Raven Wagner, Randy Green, others"
+universe	"Marvel Universe"
+weight	54
+231	
+education	"Unrevealed"
+height	177
+identity	"Secret"
+name	"Mystique (House of M)"
+other_aliases	"Raven Darkhölme, Foxx, Helmut Stein, Mallory Brickman, B. Byron Biggs, Surge, Ronnie Lake, Holt Adler, Leni Zauber, Raven Wagner, Randy Green, others"
+universe	"Marvel Universe"
+weight	54
+232	
+education	"Unrevealed"
+height	177
+identity	"Secret"
+name	"Mystique (Ultimate)"
+other_aliases	"Raven Darkhölme, Foxx, Helmut Stein, Mallory Brickman, B. Byron Biggs, Surge, Ronnie Lake, Holt Adler, Leni Zauber, Raven Wagner, Randy Green, others"
+universe	"Marvel Universe"
+weight	54
+233	
+education	"Graduate of Atlantean education system"
+height	180
+identity	"Publicly known"
+name	"Namora"
+other_aliases	"Sub-Mariner, Avenging Daughter, the Sea Beauty"
+universe	"Marvel Universe"
+weight	85.05
+234	
+education	"Unfinished college degree"
+height	167
+identity	"No dual identity"
+name	"Namorita"
+other_aliases	"Kymaera, Hard"
+universe	"Marvel Universe"
+weight	101.25
+235	
+education	"Elementary school"
+height	180
+identity	"Secret"
+name	"Nekra"
+other_aliases	"Adrienne Hatros, Priestess of Darkness"
+universe	"Marvel Universe"
+weight	65.25
+236	
+education	"Unrevealed"
+height	177
+identity	"Secret"
+name	"Nemesis"
+other_aliases	"Jane Doe"
+universe	"Marvel Universe"
+weight	51.75
+237	
+education	"High school, possibly unfinished; extensive military and intelligence training"
+height	185
+identity	"No dual identity"
+name	"Nick Fury (LEGO Marvel Super Heroes)"
+other_aliases	"Mr. Anger, Doyle, the Man in the Mystery Mask, Patch, various others used in espionage; impersonated Scorpio"
+universe	"Marvel Universe"
+weight	99.45
+238	
+education	"High school, possibly unfinished; extensive military and intelligence training"
+height	185
+identity	"No dual identity"
+name	"Nick Fury (Ultimate)"
+other_aliases	"Mr. Anger, Doyle, the Man in the Mystery Mask, Patch, various others used in espionage; impersonated Scorpio"
+universe	"Marvel Universe"
+weight	99.45
+239	
+education	"College-level courses at Xavier's School for Gifted Youngsters"
+height	175
+identity	"Secret (known to British authorities)"
+name	"Nightcrawler (Ultimate)"
+other_aliases	'"Fuzzy Elf", formerly Gainsborough'
+universe	"Marvel Universe"
+weight	72.45
+240	
+education	"Unrevealed"
+height	180
+identity	"Publicly known"
+name	"Nighthawk"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	81
+241	
+education	"High-school dropout"
+height	180
+identity	"(in 1950's) Secret, (current) publicly known"
+name	"Nomad"
+other_aliases	"Bucky, Scourge"
+universe	"Marvel Universe"
+weight	90
+242	
+education	"High-school dropout"
+height	180
+identity	"(in 1950's) Secret, (current) publicly known"
+name	"Nomad (Rikki Barnes)"
+other_aliases	"Bucky, Scourge"
+universe	"Marvel Universe"
+weight	90
+243	
+education	"High-school dropout"
+height	180
+identity	"(in 1950's) Secret, (current) publicly known"
+name	"Nomad (Steve Rogers)"
+other_aliases	"Bucky, Scourge"
+universe	"Marvel Universe"
+weight	90
+244	
+education	"High school level"
+height	180
+identity	"Public"
+name	"Northstar"
+other_aliases	"Jean-Paul Martin"
+universe	"Marvel Universe"
+weight	83.25
+245	
+education	"College graduate"
+height	167
+identity	"Secret"
+name	"Nova (Frankie Raye)"
+other_aliases	"Human Torch"
+universe	"Marvel Universe"
+weight	63
+246	
+education	"Unrevealed"
+height	210
+identity	"Known to authorities"
+name	"Omega Red"
+other_aliases	"Vasyliev Arkady among several others"
+universe	"Marvel Universe"
+weight	191.25
+247	
+education	"Srenesk warrior training"
+height	187
+identity	"Secret"
+name	"Omega the Unknown"
+other_aliases	"Sam"
+universe	"Marvel Universe"
+weight	99
+248	
+education	"Unrevealed, presumably extensive"
+height	165
+identity	"Publicly known"
+name	"Oracle"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	56.25
+249	
+education	"Unrevealed"
+height	226
+identity	"Secret"
+name	"Ord"
+other_aliases	"Ord of the Breakworld"
+universe	"Marvel Universe"
+weight	153.45000000000002
+250	
+education	"Primary school drop-out"
+height	228
+identity	"Secret"
+name	"Orphan-Maker"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	"Unrevealed"
+251	
+education	"Ph.D. in atomic physics, honorary doctorate in biochemistry, decorates in nuclear physics"
+height	175
+identity	"Publicly known"
+name	"Otto Octavius"
+other_aliases	"Doc Ock; formerly Master Planner, Bowrey Bum, Master Programmer, Prisoner #4756689"
+universe	"Marvel Universe"
+weight	110.25
+252	
+education	"Graduate of Skrullian military academy"
+height	187
+identity	"Known to Skrull Empire"
+name	"Paibok"
+other_aliases	"Power Skrull"
+universe	"Marvel Universe"
+weight	276.75
+253	
+education	"Unrevealed"
+height	187
+identity	"Secret"
+name	"Paladin"
+other_aliases	"Paul Denning"
+universe	"Marvel Universe"
+weight	101.25
+254	
+education	"Unrevealed"
+height	177
+identity	"Secret"
+name	"Paper Doll"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	58.5
+255	
+education	'High School junior; The Bronx High School of Science, "Bronx Science"'
+height	180
+identity	"Secret"
+name	"Patriot"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	72
+256	
+education	"College degree in business"
+height	162
+identity	"No dual identity"
+name	"Pepper Potts"
+other_aliases	'Rescue, Hera, Virginia "Pepper" Potts Hogan'
+universe	"Marvel Universe"
+weight	49.5
+257	
+education	"Unrevealed"
+height	187
+identity	"Publicly known in the intergalactic community"
+name	"Photon"
+other_aliases	'Captain Marvel, Legacy, "Genny", "Starface"'
+universe	"Marvel Universe"
+weight	94.5
+258	
+education	"Unrevealed"
+height	175
+identity	"Publicly known on Titan; the general populace of Earth is unaware of her existence."
+name	"Phyla-Vell"
+other_aliases	"Martyr, formerly Quasar"
+universe	"Marvel Universe"
+weight	46.35
+259	
+education	"Unrevealed"
+height	193
+identity	"Publicly known"
+name	"Piledriver"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	139.5
+260	
+education	"Unrevealed"
+height	132
+identity	"Known to intergalactic authorities"
+name	"Pip"
+other_aliases	"Pipman, King Pip, Formerly Dr. DeTroll"
+universe	"Marvel Universe"
+weight	64.8
+261	
+education	"Currently in high school level courses"
+height	162
+identity	"Publicly known"
+name	"Pixie"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	54.45
+262	
+education	"Unrevealed"
+height	251
+identity	"Secret (known to the U.S. Government officials)"
+name	"Post"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	362.25
+263	
+education	"Ongoing studies at Avengers Academy; attended classes at The Alison Blaire School for the Performing Arts, trained at School of Thunder"
+height	175
+identity	"Secret"
+name	"Power Man (USM)"
+other_aliases	"None"
+weight	72
+264	
+education	"Accelerated Intelligence"
+height	162
+identity	"No dual identity"
+name	"Praxagora"
+other_aliases	"Unknown"
+universe	"Marvel Universe"
+weight	450
+265	
+education	"Unrevealed"
+height	172
+identity	"Secret"
+name	"Pretty Boy"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	105.75
+266	
+education	"Ph.Ds in genetics, biophysics, psychology, and anthropology, and an M.D. in psychiatry"
+height	182
+identity	"Publicly known"
+name	"Professor X (Ultimate)"
+other_aliases	"Doctor X, Professor Xavier, formerly Prisoner M-13"
+universe	"Marvel Universe"
+weight	85.5
+267	
+education	"Unrevealed"
+height	175
+identity	"No dual identity"
+name	"Psycho-Man"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	60.75
+268	
+education	"Unrevealed"
+height	195
+identity	"Secret"
+name	"Puff Adder"
+other_aliases	"Gordo Fraley"
+universe	"Marvel Universe"
+weight	168.75
+269	
+education	"Unrevealed"
+height	167
+identity	"Publicly Known"
+name	"Puppet Master"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	67.5
+270	
+education	"College level education"
+height	177
+identity	"Secret (known to certain government officials)"
+name	"Pyro"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	67.5
+271	
+education	"College graduate; S.H.I.E.L.D. Academy graduate"
+height	177
+identity	"Secret"
+name	"Quasar (Phyla-Vell)"
+other_aliases	"Marvel Man, Starknight"
+universe	"Marvel Universe"
+weight	81
+272	
+education	"High school level studies at Professor Xavier's School for Gifted Youngsters, some college level education"
+height	170
+identity	"Known to British legal authorities; the general public is unaware that Marvel Girl comes from the future of an alternate timeline"
+name	"Rachel Grey"
+other_aliases	"Rachel Grey, formerly Phoenix, Mother Askani, Bright Lady, Aly'zrn Summerset"
+universe	"Marvel Universe"
+weight	56.25
+273	
+education	"Currently student at Oatridge School for Boys"
+height	198
+identity	"Publicly known"
+name	"Rage"
+other_aliases	"Blacksmith"
+universe	"Marvel Universe"
+weight	202.5
+274	
+education	"Unrevealed"
+height	185
+identity	"Known to the American legal authorities"
+name	"Rattler"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	110.25
+275	
+education	"Unrevealed"
+height	200
+identity	"No dual identity"
+name	"Ravenous"
+other_aliases	"Lord Ravenous"
+universe	"Marvel Universe"
+weight	438.75
+276	
+education	"Unrevealed"
+height	180
+identity	"Secret"
+name	"Red Ghost"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	96.75
+277	
+education	"Unrevealed"
+height	180
+identity	"Secret"
+name	"Red Ghost (Ultimate)"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	96.75
+278	
+education	"Unrevealed"
+height	193
+identity	"Secret"
+name	"Red Shift"
+other_aliases	"Unrevealed"
+universe	"Marvel Universe"
+weight	112.5
+279	
+education	"Limited"
+height	195
+identity	"Known to legal authorities by fake U.S. identity"
+name	"Rhino"
+other_aliases	"Alex O’Hirn, Ryan O’Smith, Mecha-Rhino, “Santa Claus,” Rhines, “Gray Man,” “Horn-head”, “Horn-Face” (latter three nicknames by Hulk/Bruce Banner), Rampaging Rhino"
+universe	"Marvel Universe"
+weight	319.5
+280	
+education	"College graduate"
+height	177
+identity	"Secret"
+name	"Richard Fisk"
+other_aliases	"The Schemer, Supreme Hydra, the Rose, Blood Rose"
+universe	"Marvel Universe"
+weight	83.25
+281	
+education	"Unrevealed"
+height	170
+identity	"Secret"
+name	"Risque"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	57.15
+282	
+education	"Columbia School of Journalism graduate"
+height	185
+identity	"No dual identity"
+name	"Robbie Robertson"
+other_aliases	"Robbie"
+universe	"Marvel Universe"
+weight	94.5
+283	
+education	"College education"
+height	177
+identity	"Known to authorities"
+name	"Rocket Racer"
+other_aliases	"Robert Johnson"
+universe	"Marvel Universe"
+weight	72
+284	
+education	"Unrevealed"
+height	218
+identity	"Secret, known to select underworld crime bosses."
+name	"Russian"
+other_aliases	"The Ivan"
+universe	"Marvel Universe"
+weight	257.85
+285	
+education	"Unrevealed"
+height	198
+identity	"Known to various government officials"
+name	"Sabretooth (Age of Apocalypse)"
+other_aliases	'Der Schlächter ("The Butcher" in German), Slasher, El Tigre, others'
+universe	"Marvel Universe"
+weight	123.75
+286	
+education	"Unrevealed"
+height	198
+identity	"Known to various government officials"
+name	"Sabretooth (House of M)"
+other_aliases	'Der Schlächter ("The Butcher" in German), Slasher, El Tigre, others'
+universe	"Marvel Universe"
+weight	123.75
+287	
+education	"Unrevealed"
+height	198
+identity	"Known to various government officials"
+name	"Sabretooth (Ultimate)"
+other_aliases	'Der Schlächter ("The Butcher" in German), Slasher, El Tigre, others'
+universe	"Marvel Universe"
+weight	123.75
+288	
+education	"Unrevealed"
+height	170
+identity	"Secret"
+name	"Sage"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	60.75
+289	
+education	"Highly train military strategist"
+height	165
+identity	"No dual identity"
+name	"Salo"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	65.25
+290	
+education	"High school (incomplete)"
+height	185
+identity	"Known to legal authorities"
+name	"Sandman"
+other_aliases	'Flint Marko, Sylvester Mann, Quarryman, "Mud-Thing"'
+universe	"Marvel Universe"
+weight	108
+291	
+education	"Tutored by demons"
+height	170
+identity	"No dual identity"
+name	"Satana"
+other_aliases	"The Devil's Daughter, Judith Camber, Julia, Mistress of the Basilisk"
+universe	"Marvel Universe"
+weight	54
+292	
+education	"Possesses Peter Parker's memories of attending university"
+height	177
+identity	"Secret"
+name	"Scarlet Spider (Ben Reilly)"
+other_aliases	"Peter Parker, Scarlet Spider, Spider-Man, Spider-Carnage"
+universe	"Marvel Universe"
+weight	74.25
+293	
+education	"Unrevealed"
+height	175
+identity	"Secret"
+name	"Scrambler"
+other_aliases	"None"
+universe	"Marvel Universe"
+weight	65.25
+294	
+education	"Unrevealed"
+height	175
+identity	"Known to authorities"
+name	"Screwball"
+other_aliases	"Impersonated Spider-Man (Peter Parker)"
+universe	"Marvel Universe"
+weight	59.4
+295	
+education	"Unrevealed"
+height	187
+identity	"Publicly known"
+name	"Sebastian Shaw"
+other_aliases	"Black King, Lord Imperial"
+universe	"Marvel Universe"
+weight	94.5
+296	
+education	"Unrevealed"
+height	177
+identity	"Unrevealed"
+name	"Selene"
+other_aliases	"Black Queen"
+universe	"Marvel Universe"
+weight	58.5
+297	
+education	"Unrevealed"
+height	175
+identity	"Publicly known, though few believe she is an Eternal"
+name	"Sersi"
+other_aliases	"Mesmer, Sylvia Sersi, Circe"
+universe	"Marvel Universe"
+weight	63
+298	
+education	"Some university-level courses"
+height	167
+identity	"Secret"
+name	"Shadowcat"
+other_aliases	"Shadowcat, Cat, Kitten, formerly Ariel, Sprite"
+universe	"Marvel Universe"
+weight	49.5
+299	
+education	"Some university-level courses"
+height	167
+identity	"Secret"
+name	"Shadowcat (Age of Apocalypse)"
+other_aliases	"Shadowcat, Cat, Kitten, formerly Ariel, Sprite"
+universe	"Marvel Universe"
+weight	49.5
+300	
+education	"Some university-level courses"
+height	167
+identity	"Secret"
+name	"Shadowcat (Ultimate)"
+other_aliases	"Shadowcat, Cat, Kitten, formerly Ariel, Sprite"
+universe	"Marvel Universe"
+weight	49.5
+301	
+education	"Privately tutored by various martial arts masters"
+height	177
+identity	"None"
+name	"Shang-Chi"
+other_aliases	"Master of Kung Fu"
+universe	"Marvel Universe"
+weight	78.75

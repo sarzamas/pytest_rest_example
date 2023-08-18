@@ -1,0 +1,17 @@
+{
+  "rest_config": {
+    "host": {
+      "ip": "rest.test.ivi.ru",
+      "port": 80,
+      "protocol": "http",
+      "version": 2,
+      "resource": "character",
+      "wait_conn": 0.5,
+      "wait_read": 0.7
+    },
+    "user": {
+      "username": null,
+      "password": null
+    }
+  }
+}
