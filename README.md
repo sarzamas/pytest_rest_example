@@ -35,7 +35,7 @@ $ pip install -r requirements.txt
 ```
 Пример запуска тестов с фильтром по маркерам, установленным в файле `pytest.ini`:
 ```
- $ python -m pytest <marker1> ... <markerN>
+ $ python -m pytest -m <marker1> ... <markerN>
 ```
 - Для просмотра всех маркеров: ```$ pytest --markers```
 - Для просмотра всех доступных fixtures: ```$ pytest --fixtures```
